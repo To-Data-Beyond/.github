@@ -23,19 +23,16 @@
 
 ## 🔍 What we cover
 
-*Following To Data & Beyond, you will learn about the entire lifecycle of an AI system, from system design to deploying and monitoring.*
+*Following [To Data & Beyond](https://youssefh.substack.com/), you will learn about the entire lifecycle of data science, AI, and Gen AI systems, from system design to implementation and finally to deploying and monitoring.*
 
-- 🤖 **GenAI Systems** - From concept to production
-- 🔎 **Information Retrieval** - Building scalable search and recommender systems
-- 🏗️ **AI System Design** - Architecture and best practices
+- **GenAI Systems** - From concept to production
+- **GenAI Systems** - From concept to production
 - ⚙️ **AI Engineering** - Hands-on implementation guides
-- 🛠️ **MLOps/LLMOps** - Production deployment and monitoring
 
 ## 🗞️ Why subscribe to our newsletter and blog?
 
-Join [Decoding ML](https://decodingml.substack.com/) for proven content on designing, coding, and deploying production-grade AI systems. **Every week, straight to your inbox.**
+Join [To Data & Beyond](https://youssefh.substack.com/) for proven content on designing, coding, and deploying production-grade AI systems. **Every week, straight to your inbox.**
 
-> No more bedtime stories in Jupyter Notebooks.
 
 ## 🎓 Our resources on learning AI:
 
@@ -45,9 +42,9 @@ Join [Decoding ML](https://decodingml.substack.com/) for proven content on desig
 
 ## 🤝 Let's collaborate!
 
-We're always excited to collaborate with AI practitioners and creators. Have an idea or want to work together?
+We're always excited to collaborate with AI practitioners and creators. Have an idea or want to write with us?
 
-📧 Reach out at [p.b.iusztin@gmail.com](mailto:p.b.iusztin@gmail.com)
+📧 Fill out the following form [p.b.iusztin@gmail.com](mailto:p.b.iusztin@gmail.com)
 
 ---
 
