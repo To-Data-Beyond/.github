@@ -14,19 +14,16 @@
 [![](https://img.shields.io/static/v1?label&logo=substack&message=Newsletter&style=for-the-badge&color=black)](https://youssefh.substack.com/)
 [![](https://img.shields.io/static/v1?label&logo=substack&message=Blog&style=for-the-badge&color=black)](https://youssefh.substack.com/)
 [![](https://img.shields.io/static/v1?label&logo=linkedin&message=linkedin&style=for-the-badge&color=black)](https://www.linkedin.com/company/to-data-beyond)
-[![](https://img.shields.io/static/v1?label&logo=x&message=Twitter&style=for-the-badge&color=black)](https://x.com/iusztinpaul)
 
 </div>
 
 ## 🎯 Our mission
 
-[Decoding ML](https://decodingml.substack.com/) is a publication that creates battle-tested content on building production-grade AI, GenAI, and information retrieval systems — built with ML systems, MLE, and MLOps best practices.
-
-> Our motto is "More engineering, less F1 scores."
+[To Data & Beyond](https://youssefh.substack.com/) is a publication that creates advanced content on AI, GenAI, LLMs and data science.
 
 ## 🔍 What we cover
 
-*Following Decoding ML, you will learn about the entire lifecycle of an AI system, from system design to deploying and monitoring.*
+*Following To Data & Beyond, you will learn about the entire lifecycle of an AI system, from system design to deploying and monitoring.*
 
 - 🤖 **GenAI Systems** - From concept to production
 - 🔎 **Information Retrieval** - Building scalable search and recommender systems
