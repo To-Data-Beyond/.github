@@ -44,10 +44,10 @@ Join [To Data & Beyond](https://youssefh.substack.com/) for proven content on de
 
 We're always excited to collaborate with AI practitioners and creators. Have an idea or want to write with us?
 
-📧 Fill out the following form [p.b.iusztin@gmail.com](mailto:p.b.iusztin@gmail.com)
+📧 Fill out the following [form](https://docs.google.com/forms/d/e/1FAIpQLScwBnlnXqhLB9NvY1wZaLeI41Z6GC5Pyx5lbG9wMz267_4LnQ/viewform?usp=sf_link)
 
 ---
 
 <div align="center">
-  <i><a href="https://decodingml.substack.com/">Join us in building the future of production AI systems!</a></i>
+  <i><a href="https://decodingml.substack.com/">Join us in Mastering Data Science & AI—Beyond the Basics!</a></i>
 </div>
