@@ -25,8 +25,8 @@
 
 *Following [To Data & Beyond](https://youssefh.substack.com/), you will learn about the entire lifecycle of data science, AI, and Gen AI systems, from system design to implementation and finally to deploying and monitoring.*
 
-- **GenAI Systems** - From concept to production
-- **GenAI Systems** - From concept to production
+- **GenAI Systems** - From concept to implementation
+- **LLM Applications** - LLM Applications  
 - ⚙️ **AI Engineering** - Hands-on implementation guides
 
 ## 🗞️ Why subscribe to our newsletter and blog?
