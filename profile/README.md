@@ -5,8 +5,8 @@
 
 <div align="center">
   <h1>Welcome to To Data & Beyond</h1>
-  <h3>The hub for continuous learning on production-grade AI, GenAI, and information retrieval systems</h3>
-  <p><i>When AI systems look encoded - we'll help you decode them.</i></p>
+  <h3>The place for continuous learning on Advanced AI, GenAI, and Data Science</h3>
+  <p><i>Mastering Data Science & AI—Beyond the Basics</i></p>
 </div>
 
 <div align="center">
