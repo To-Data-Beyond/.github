@@ -33,13 +33,6 @@
 
 Join [To Data & Beyond](https://youssefh.substack.com/) for proven content on designing, coding, and deploying production-grade AI systems. **Every week, straight to your inbox.**
 
-
-## 🎓 Our resources on learning AI:
-
-[![](https://img.shields.io/static/v1?label&logo=substack&message=Free%20Courses&style=for-the-badge&color=black)](https://decodingml.substack.com/p/master-production-ai-with-our-end)
-[![](https://img.shields.io/static/v1?label&logo=substack&message=Perks&style=for-the-badge&color=black)](https://decodingml.substack.com/p/perks-exclusive-discounts-on-our)
-
-
 ## 🤝 Let's collaborate!
 
 We're always excited to collaborate with AI practitioners and creators. Have an idea or want to write with us?
