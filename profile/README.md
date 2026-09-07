@@ -1,6 +1,6 @@
 <p align="center"><img src="[https://github.com/DecodingML/.github/blob/main/media/banner.jpg?raw=true](https://github.com/user-attachments/assets/053891c6-f117-47ba-a81b-c916b657fe6f)"></p>
 
-![Beige   Blue Simple Brush Personal LinkedIn Banner](https://github.com/user-attachments/assets/32a84f5b-76e0-4914-a7ce-f0ab481d3e09)
+<img width="1536" height="1024" alt="WhatsApp Image 2026-08-01 at 3 44 58 PM" src="https://github.com/user-attachments/assets/dc5adad5-3ecc-439b-8500-b947ed90ae04" />
 
 
 <div align="center">
